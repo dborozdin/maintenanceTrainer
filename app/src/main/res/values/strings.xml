@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Тренажер 2.0</string>
+    <string name="image_view">Изображение</string>
+    <string name="detect">Подсказать</string>
+    <string name="run_model">Запуск модели...</string>
+    <string name="restart">Перезапуск</string>
+    <string name="select">Выбрать</string>
+    <string name="demo_video">Демо видео</string>
+    <string name="live">Камера</string>
+</resources>
